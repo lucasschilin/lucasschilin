@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Lucas!</h1>
 
-<!--
-**lucasschilin/lucasschilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  (But everyone calls me <strong>Schilin</strong> — please, don't fight against it 😅)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📍 Location
+Feliz, Rio Grande do Sul, Brazil
+
+## 👨‍💻 About Me
+I'm a **Software Engineer** since 2019 — and no, I don't just solve tasks.  
+I couldn't work like that — I need to **think, plan, build stuff, and get things DONE**.
+
+- 🎓 Graduated as an **IT Technician** at IFRS (Federal Institute of Rio Grande do Sul)
+- 💻 I've worked with **PHP** (both raw and Laravel), **MySQL**, **Python**, and more
+- 🔍 Passionate about code architecture, growth, and continuous learning
+
+## 📚 Currently Studying
+- 🐍 Python
+- 🦫 Go
+- 🅰️ Angular
+- ⚙️ DevOps
+- 🧠 Data Structures & Algorithms
+- 🇺🇸 Practicing my **English**
+- 📘 Deepening my technical knowledge every day
+
+## 🤓 Fun Facts
+- 💥 I’ve taken down a production app (just once, I swear)
+- 🗑️ I’ve accidentally deleted a whole database table
+- 🔁 Left an infinite loop running in production... good times
+- 🇩🇪 I understand **98% of German dialects** and only **2% of the original language**
+
+## ☕ Other Facts
+- ❤️ I love **☕ coffee** and **🐶 dogs**
+
+## 📫 Contact
+**Wanna chat? I'd love to.**  
+📧 Email: lucas@email.com  
+🔗 LinkedIn: [linkedin.com/in/lucas](https://linkedin.com/in/lucas)
