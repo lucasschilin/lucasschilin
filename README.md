@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
----
-
 ## 📍 Location
 Feliz, Rio Grande do Sul, Brazil
 
@@ -26,9 +24,9 @@ I couldn't work like that — I need to **think, plan, build stuff, and get thin
 
 ## 📚 Currently Studying
 - 🐍 Python
-- 🦫 Go
+- 🐹 Go
 - 🅰️ Angular
-- ⚙️ DevOps
+- ⚙️ DevOps (QA, CI/CD, ...)
 - 🧠 Data Structures & Algorithms
 - 🇺🇸 Practicing my **English**
 - 📘 Deepening my technical knowledge every day
@@ -43,6 +41,5 @@ I couldn't work like that — I need to **think, plan, build stuff, and get thin
 - ❤️ I love **☕ coffee** and **🐶 dogs**
 
 ## 📫 Contact
-**Wanna chat? I'd love to.**  
 📧 Email: schilin.lucas@gmail.com  
 🔗 LinkedIn: [linkedin.com/lucasschlindwein](https://linkedin.com/lucasschlindwein)
