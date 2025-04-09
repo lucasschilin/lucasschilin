@@ -44,5 +44,5 @@ I couldn't work like that — I need to **think, plan, build stuff, and get thin
 
 ## 📫 Contact
 **Wanna chat? I'd love to.**  
-📧 Email: lucas@email.com  
-🔗 LinkedIn: [linkedin.com/in/lucas](https://linkedin.com/in/lucas)
+📧 Email: schilin.lucas@gmail.com  
+🔗 LinkedIn: [linkedin.com/lucasschlindwein](https://linkedin.com/lucasschlindwein)
