@@ -15,7 +15,7 @@
 Feliz, Rio Grande do Sul, Brazil
 
 ## 👨‍💻 About Me
-I'm a **Software Engineer** since 2019 — and no, I don't just solve tasks.  
+I work as a **Software Engineer** since 2019 — and no, I don't just solve tasks.  
 I couldn't work like that — I need to **think, plan, build stuff, and get things DONE**.
 
 - 🎓 Graduated as an **IT Technician** at IFRS (Federal Institute of Rio Grande do Sul)
