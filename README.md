@@ -15,9 +15,7 @@
 Feliz, Rio Grande do Sul, Brazil
 
 ## 👨‍💻 About Me
-I work as a **Software Engineer** since 2019 — and no, I don't just solve tasks.  
-I couldn't work like that — I need to **think, plan, build stuff, and get things DONE**.
-
+- 👨‍💻 I work as a **Software Engineer** since 2019
 - 🎓 Graduated as an **IT Technician** at IFRS (Federal Institute of Rio Grande do Sul)
 - 💻 I've worked with **PHP** (both raw and Laravel), **MySQL**, **Python**, and more
 - 🔍 Passionate about code architecture, growth, and continuous learning
@@ -28,17 +26,17 @@ I couldn't work like that — I need to **think, plan, build stuff, and get thin
 - 🅰️ Angular
 - ⚙️ DevOps (QA, CI/CD, ...)
 - 🧠 Data Structures & Algorithms
-- 🇺🇸 Practicing my **English**
+- 🗣 Practicing my **English**
 - 📘 Deepening my technical knowledge every day
 
 ## 🤓 Fun Facts
-- 💥 I’ve taken down a production app (just once, I swear)
+- 💥 I’ve taken down a production app (Who hasn't?)
 - 🗑️ I’ve accidentally deleted a whole database table
-- 🔁 Left an infinite loop running in production... good times
-- 🇩🇪 I understand **98% of German dialects** and only **2% of the original language**
+- 🔁 Left an infinite loop running in production.
+- 🗣 I understand **98% of German dialects** and only **2% of the original language**
 
 ## ☕ Other Facts
-- ❤️ I love **☕ coffee** and **🐶 dogs**
+- ❤️ I love **☕ coffee** and **🐕 dogs**
 
 ## 📫 Contact
 📧 Email: schilin.lucas@gmail.com  
