@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey, I'm Lucas!</h1>
+<h1 align="center">👋 Hey, I'm Lucas Schilin.</h1>
 
-<p align="center">
+<!-- <p align="center">
   (But everyone calls me <strong>Schilin</strong> — please, don't fight against it 😅)
 </p>
 
@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
+</p> -->
 
 ## 📍 Location
 Feliz, Rio Grande do Sul, Brazil
@@ -35,8 +35,8 @@ Feliz, Rio Grande do Sul, Brazil
 - 🔁 Left an infinite loop running in production.
 - 🗣 I understand **98% of German dialects** and only **2% of the original language**
 
-## ☕ Other Facts
-- ❤️ I love **☕ coffee** and **🐕 dogs**
+
+- *❤️ **☕ coffee** and **🐕 dogs** lover*
 
 ## 📫 Contact
 📧 Email: schilin.lucas@gmail.com  
