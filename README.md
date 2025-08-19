@@ -20,10 +20,6 @@ Feliz, Rio Grande do Sul, Brazil
 - 💻 I've worked with **PHP**, **MySQL**, **Python**, and more
 - 🔍 Passionate about code architecture, growth, and continuous 
 
-<!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschilin&layout=compact)
-
-
 ## 📚 Currently Studying
 - 🐍 Python
 - 🐹 Go
