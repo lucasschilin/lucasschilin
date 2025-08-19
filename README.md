@@ -27,7 +27,6 @@ Feliz, Rio Grande do Sul, Brazil
 ## 📚 Currently Studying
 - 🐍 Python
 - 🐹 Go
-- 🅰️ Angular
 - ⚙️ DevOps (QA, CI/CD, ...)
 - 🧠 Data Structures & Algorithms
 - 🗣 Practicing my **English**
